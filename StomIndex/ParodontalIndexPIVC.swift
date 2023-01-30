@@ -25,6 +25,7 @@ class ParodontalIndexPIVC: UIViewController {
     
     @IBOutlet weak var parodontalPIResult: UILabel!
     
+    
     override func viewDidLoad() {
         super.viewDidLoad()
 
