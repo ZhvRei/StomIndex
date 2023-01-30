@@ -1,0 +1,651 @@
+
+/* Class = "UILabel"; text = "№16"; ObjectID = "0t8-Xc-iGM"; */
+"0t8-Xc-iGM.text" = "№16";
+
+/* Class = "UIButton"; configuration.title = "dentalPlaque46"; ObjectID = "1az-DJ-iux"; */
+"1az-DJ-iux.configuration.title" = "dentalPlaque46";
+
+/* Class = "UIButton"; normalTitle = "indexHygien"; ObjectID = "1az-DJ-iux"; */
+"1az-DJ-iux.normalTitle" = "indexHygien";
+
+/* Class = "UILabel"; text = "Восполение сосочка"; ObjectID = "22d-j2-swI"; */
+"22d-j2-swI.text" = "Papilla inflammation";
+
+/* Class = "UICommand"; title = "Item 2"; ObjectID = "27A-DK-OoT"; */
+"27A-DK-OoT.title" = "Item 2";
+
+/* Class = "UIButton"; configuration.title = "Посчитать индекс зубного налета"; ObjectID = "2Wi-gO-o5e"; */
+"2Wi-gO-o5e.configuration.title" = "Calculate the plaque index";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "2Wi-gO-o5e"; */
+"2Wi-gO-o5e.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "42 зуб"; ObjectID = "2iU-cM-7Wb"; */
+"2iU-cM-7Wb.text" = "42 tooth";
+
+/* Class = "UIButton"; configuration.title = "indexHygien31"; ObjectID = "3MA-2C-rZg"; */
+"3MA-2C-rZg.configuration.title" = "indexHygien31";
+
+/* Class = "UIButton"; normalTitle = "indexHygien"; ObjectID = "3MA-2C-rZg"; */
+"3MA-2C-rZg.normalTitle" = "indexHygien";
+
+/* Class = "UIButton"; configuration.title = "Индекс гигиены Федорова - Володкиной"; ObjectID = "3uw-t6-jKn"; */
+"3uw-t6-jKn.configuration.title" = "Fedorov - Volodkina hygiene index";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "3uw-t6-jKn"; */
+"3uw-t6-jKn.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "№11"; ObjectID = "3x4-Oz-bQX"; */
+"3x4-Oz-bQX.text" = "№11";
+
+/* Class = "UILabel"; text = "№11"; ObjectID = "47q-nb-JNY"; */
+"47q-nb-JNY.text" = "№11";
+
+/* Class = "UICommand"; title = "Item 1"; ObjectID = "4Wa-vp-MRz"; */
+"4Wa-vp-MRz.title" = "Item 1";
+
+/* Class = "UILabel"; text = "Ортодонтически индексы"; ObjectID = "4dN-h7-nz7"; */
+"4dN-h7-nz7.text" = "Orthodontic indices";
+
+/* Class = "UICommand"; title = "Item 1"; ObjectID = "4ms-PD-rEK"; */
+"4ms-PD-rEK.title" = "Item 1";
+
+/* Class = "UIButton"; configuration.title = "tartarTooth36"; ObjectID = "5Qz-Js-tKk"; */
+"5Qz-Js-tKk.configuration.title" = "tartarTooth36";
+
+/* Class = "UIButton"; normalTitle = "indexHygien"; ObjectID = "5Qz-Js-tKk"; */
+"5Qz-Js-tKk.normalTitle" = "indexHygien";
+
+/* Class = "UICommand"; title = "Item 1"; ObjectID = "6HB-2c-tOw"; */
+"6HB-2c-tOw.title" = "Item 1";
+
+/* Class = "UILabel"; text = "Индекс гигиены"; ObjectID = "6ZH-Kk-pxa"; */
+"6ZH-Kk-pxa.text" = "Индекс гигиены";
+
+/* Class = "UILabel"; text = "Индекс гингивита РМА"; ObjectID = "7OM-ly-dZ2"; */
+"7OM-ly-dZ2.text" = "Индекс гингивита РМА";
+
+/* Class = "UICommand"; title = "Item 1"; ObjectID = "7Xj-in-BXO"; */
+"7Xj-in-BXO.title" = "Item 1";
+
+/* Class = "UICommand"; title = "Item 1"; ObjectID = "7bs-zf-77e"; */
+"7bs-zf-77e.title" = "Item 1";
+
+/* Class = "UILabel"; text = "Камень"; ObjectID = "8NJ-FW-uQi"; */
+"8NJ-FW-uQi.text" = "Камень";
+
+/* Class = "UICommand"; title = "Item 2"; ObjectID = "A8N-On-oEa"; */
+"A8N-On-oEa.title" = "Item 2";
+
+/* Class = "UILabel"; text = "Результат"; ObjectID = "AJ1-0j-kp5"; */
+"AJ1-0j-kp5.text" = "Результат";
+
+/* Class = "UITextField"; placeholder = "0-32"; ObjectID = "AiG-uL-EZX"; */
+"AiG-uL-EZX.placeholder" = "0-32";
+
+/* Class = "UILabel"; text = "№36"; ObjectID = "AmV-Nd-p01"; */
+"AmV-Nd-p01.text" = "№36";
+
+/* Class = "UIButton"; configuration.title = "indexHygien31"; ObjectID = "BLU-5z-rcV"; */
+"BLU-5z-rcV.configuration.title" = "indexHygien31";
+
+/* Class = "UIButton"; normalTitle = "indexHygien"; ObjectID = "BLU-5z-rcV"; */
+"BLU-5z-rcV.normalTitle" = "indexHygien";
+
+/* Class = "UIButton"; configuration.title = "Нуждаемость в лечении кариеса"; ObjectID = "Bfu-PH-ZTb"; */
+"Bfu-PH-ZTb.configuration.title" = "Нуждаемость в лечении кариеса";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Bfu-PH-ZTb"; */
+"Bfu-PH-ZTb.normalTitle" = "Button";
+
+/* Class = "UICommand"; title = "Item 1"; ObjectID = "CKj-dA-ejR"; */
+"CKj-dA-ejR.title" = "Item 1";
+
+/* Class = "UIButton"; configuration.title = "indexHygien31"; ObjectID = "DQY-1q-8yX"; */
+"DQY-1q-8yX.configuration.title" = "indexHygien31";
+
+/* Class = "UIButton"; normalTitle = "indexHygien"; ObjectID = "DQY-1q-8yX"; */
+"DQY-1q-8yX.normalTitle" = "indexHygien";
+
+/* Class = "UILabel"; text = "43 зуб"; ObjectID = "DlS-g3-5ti"; */
+"DlS-g3-5ti.text" = "43 зуб";
+
+/* Class = "UILabel"; text = "№31"; ObjectID = "EeT-8U-iq6"; */
+"EeT-8U-iq6.text" = "№31";
+
+/* Class = "UIButton"; configuration.title = "Назад"; ObjectID = "EhZ-m7-B9P"; */
+"EhZ-m7-B9P.configuration.title" = "Назад";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "EhZ-m7-B9P"; */
+"EhZ-m7-B9P.normalTitle" = "Button";
+
+/* Class = "UICommand"; title = "Item 2"; ObjectID = "FGs-cr-fvc"; */
+"FGs-cr-fvc.title" = "Item 2";
+
+/* Class = "UICommand"; title = "Item 2"; ObjectID = "FNm-iL-x3Q"; */
+"FNm-iL-x3Q.title" = "Item 2";
+
+/* Class = "UIButton"; configuration.title = "Интенсивность поражения зубов кариесом"; ObjectID = "FdV-Pj-Qan"; */
+"FdV-Pj-Qan.configuration.title" = "Интенсивность поражения зубов кариесом";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "FdV-Pj-Qan"; */
+"FdV-Pj-Qan.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "№36"; ObjectID = "Fn4-D9-9KL"; */
+"Fn4-D9-9KL.text" = "№36";
+
+/* Class = "UILabel"; text = "Оральная поверхность"; ObjectID = "Ft1-jk-Z2h"; */
+"Ft1-jk-Z2h.text" = "Оральная поверхность";
+
+/* Class = "UILabel"; text = "Loe and Silness(1967)"; ObjectID = "Gy9-oo-Cj4"; */
+"Gy9-oo-Cj4.text" = "Loe and Silness(1967)";
+
+/* Class = "UIButton"; configuration.title = "Гингивальный индекс Loe and Silness"; ObjectID = "Hn5-vA-2dm"; */
+"Hn5-vA-2dm.configuration.title" = "Гингивальный индекс Loe and Silness";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Hn5-vA-2dm"; */
+"Hn5-vA-2dm.normalTitle" = "Button";
+
+/* Class = "UICommand"; title = "Item 2"; ObjectID = "Hx1-wu-K7B"; */
+"Hx1-wu-K7B.title" = "Item 2";
+
+/* Class = "UILabel"; text = "Результат:"; ObjectID = "Ia6-SP-o5g"; */
+"Ia6-SP-o5g.text" = "Результат:";
+
+/* Class = "UICommand"; title = "Item 2"; ObjectID = "If3-XG-qaB"; */
+"If3-XG-qaB.title" = "Item 2";
+
+/* Class = "UILabel"; text = "Восполение сосочка и края десны"; ObjectID = "IfG-FR-UgM"; */
+"IfG-FR-UgM.text" = "Восполение сосочка и края десны";
+
+/* Class = "UILabel"; text = "Результат:"; ObjectID = "IfR-xf-JbM"; */
+"IfR-xf-JbM.text" = "Результат:";
+
+/* Class = "UILabel"; text = "46 зуб"; ObjectID = "J7Q-X1-Qhm"; */
+"J7Q-X1-Qhm.text" = "46 зуб";
+
+/* Class = "UIButton"; configuration.title = "toothTartar31"; ObjectID = "JPw-M1-ttH"; */
+"JPw-M1-ttH.configuration.title" = "toothTartar31";
+
+/* Class = "UIButton"; normalTitle = "indexHygien"; ObjectID = "JPw-M1-ttH"; */
+"JPw-M1-ttH.normalTitle" = "indexHygien";
+
+/* Class = "UILabel"; text = "№26"; ObjectID = "Jvw-tg-jdX"; */
+"Jvw-tg-jdX.text" = "№26";
+
+/* Class = "UITextField"; placeholder = "0-32"; ObjectID = "JyI-Kd-G3P"; */
+"JyI-Kd-G3P.placeholder" = "0-32";
+
+/* Class = "UICommand"; title = "Item 2"; ObjectID = "KB2-Kl-vZJ"; */
+"KB2-Kl-vZJ.title" = "Item 2";
+
+/* Class = "UICommand"; title = "Item 2"; ObjectID = "KR7-MX-Zeh"; */
+"KR7-MX-Zeh.title" = "Item 2";
+
+/* Class = "UIButton"; configuration.title = "toothTartar26"; ObjectID = "Kfo-Vq-Kr5"; */
+"Kfo-Vq-Kr5.configuration.title" = "toothTartar26";
+
+/* Class = "UIButton"; normalTitle = "indexHygien"; ObjectID = "Kfo-Vq-Kr5"; */
+"Kfo-Vq-Kr5.normalTitle" = "indexHygien";
+
+/* Class = "UICommand"; title = "Item 1"; ObjectID = "Ktd-P7-LnO"; */
+"Ktd-P7-LnO.title" = "Item 1";
+
+/* Class = "UIButton"; configuration.title = "Оценка кариеса"; ObjectID = "L2r-Fw-npX"; */
+"L2r-Fw-npX.configuration.title" = "Оценка кариеса";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "L2r-Fw-npX"; */
+"L2r-Fw-npX.normalTitle" = "Button";
+
+/* Class = "UICommand"; title = "Item 1"; ObjectID = "L7h-Be-rHT"; */
+"L7h-Be-rHT.title" = "Item 1";
+
+/* Class = "UILabel"; text = "36 зуб"; ObjectID = "LAI-wh-Riy"; */
+"LAI-wh-Riy.text" = "36 зуб";
+
+/* Class = "UIButton"; configuration.title = "gingivalIndex36"; ObjectID = "LCb-OZ-Wsv"; */
+"LCb-OZ-Wsv.configuration.title" = "gingivalIndex36";
+
+/* Class = "UIButton"; normalTitle = "indexHygien"; ObjectID = "LCb-OZ-Wsv"; */
+"LCb-OZ-Wsv.normalTitle" = "indexHygien";
+
+/* Class = "UILabel"; text = "Пародонтальные индексы"; ObjectID = "LGv-6N-d2V"; */
+"LGv-6N-d2V.text" = "Пародонтальные индексы";
+
+/* Class = "UIButton"; configuration.title = "gingivalIndex46"; ObjectID = "LYP-q5-yRI"; */
+"LYP-q5-yRI.configuration.title" = "gingivalIndex46";
+
+/* Class = "UIButton"; normalTitle = "indexHygien"; ObjectID = "LYP-q5-yRI"; */
+"LYP-q5-yRI.normalTitle" = "indexHygien";
+
+/* Class = "UILabel"; text = "31 зуб"; ObjectID = "LoN-HW-Hoi"; */
+"LoN-HW-Hoi.text" = "31 зуб";
+
+/* Class = "UICommand"; title = "Item 2"; ObjectID = "Nvd-SX-4nQ"; */
+"Nvd-SX-4nQ.title" = "Item 2";
+
+/* Class = "UICommand"; title = "Item 2"; ObjectID = "O7f-iM-dBC"; */
+"O7f-iM-dBC.title" = "Item 2";
+
+/* Class = "UIButton"; configuration.title = "gingivalIndex11"; ObjectID = "Ovf-Nb-MQA"; */
+"Ovf-Nb-MQA.configuration.title" = "gingivalIndex11";
+
+/* Class = "UIButton"; normalTitle = "indexHygien"; ObjectID = "Ovf-Nb-MQA"; */
+"Ovf-Nb-MQA.normalTitle" = "indexHygien";
+
+/* Class = "UICommand"; title = "Item 2"; ObjectID = "QBf-qA-XiS"; */
+"QBf-qA-XiS.title" = "Item 2";
+
+/* Class = "UIButton"; configuration.title = "Пародонтальные индексы"; ObjectID = "QVA-We-wEO"; */
+"QVA-We-wEO.configuration.title" = "Пародонтальные индексы";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "QVA-We-wEO"; */
+"QVA-We-wEO.normalTitle" = "Button";
+
+/* Class = "UICommand"; title = "Item 2"; ObjectID = "QVn-7H-u6t"; */
+"QVn-7H-u6t.title" = "Item 2";
+
+/* Class = "UILabel"; text = "№31"; ObjectID = "RAg-IW-P1N"; */
+"RAg-IW-P1N.text" = "№31";
+
+/* Class = "UILabel"; text = "Результат:"; ObjectID = "RLQ-Ga-rOw"; */
+"RLQ-Ga-rOw.text" = "Результат:";
+
+/* Class = "UIButton"; configuration.title = "Распространненость кариеса зубов"; ObjectID = "RYS-bs-cdc"; */
+"RYS-bs-cdc.configuration.title" = "Распространненость кариеса зубов";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "RYS-bs-cdc"; */
+"RYS-bs-cdc.normalTitle" = "Button";
+
+/* Class = "UICommand"; title = "Item 2"; ObjectID = "RbW-ou-LDC"; */
+"RbW-ou-LDC.title" = "Item 2";
+
+/* Class = "UIButton"; configuration.title = "Редукция прироста кариеса зубов"; ObjectID = "Rit-ou-ogH"; */
+"Rit-ou-ogH.configuration.title" = "Редукция прироста кариеса зубов";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Rit-ou-ogH"; */
+"Rit-ou-ogH.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "dentalPlaque16"; ObjectID = "Rjx-xm-44V"; */
+"Rjx-xm-44V.configuration.title" = "dentalPlaque16";
+
+/* Class = "UIButton"; normalTitle = "indexHygien"; ObjectID = "Rjx-xm-44V"; */
+"Rjx-xm-44V.normalTitle" = "indexHygien";
+
+/* Class = "UICommand"; title = "Item 1"; ObjectID = "S5b-2T-Xcc"; */
+"S5b-2T-Xcc.title" = "Item 1";
+
+/* Class = "UILabel"; text = "Гингивальный индекс"; ObjectID = "S74-sC-6Ie"; */
+"S74-sC-6Ie.text" = "Гингивальный индекс";
+
+/* Class = "UIButton"; configuration.title = "toothTartar16"; ObjectID = "SBl-8m-Z5A"; */
+"SBl-8m-Z5A.configuration.title" = "toothTartar16";
+
+/* Class = "UIButton"; normalTitle = "indexHygien"; ObjectID = "SBl-8m-Z5A"; */
+"SBl-8m-Z5A.normalTitle" = "indexHygien";
+
+/* Class = "UIButton"; configuration.title = "Упрощенный индекс гигиены"; ObjectID = "Sda-BY-9I5"; */
+"Sda-BY-9I5.configuration.title" = "Упрощенный индекс гигиены";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Sda-BY-9I5"; */
+"Sda-BY-9I5.normalTitle" = "Button";
+
+/* Class = "UICommand"; title = "Item 1"; ObjectID = "T8A-RP-vKw"; */
+"T8A-RP-vKw.title" = "Item 1";
+
+/* Class = "UIButton"; configuration.title = "gingivalIndex26"; ObjectID = "TOG-nf-xOm"; */
+"TOG-nf-xOm.configuration.title" = "gingivalIndex26";
+
+/* Class = "UIButton"; normalTitle = "indexHygien"; ObjectID = "TOG-nf-xOm"; */
+"TOG-nf-xOm.normalTitle" = "indexHygien";
+
+/* Class = "UICommand"; title = "Item 1"; ObjectID = "TeN-Zh-Lwb"; */
+"TeN-Zh-Lwb.title" = "Item 1";
+
+/* Class = "UICommand"; title = "Item 2"; ObjectID = "U5N-r6-K5U"; */
+"U5N-r6-K5U.title" = "Item 2";
+
+/* Class = "UIButton"; configuration.title = "indexHygien31"; ObjectID = "U8p-Rc-ILR"; */
+"U8p-Rc-ILR.configuration.title" = "indexHygien31";
+
+/* Class = "UIButton"; normalTitle = "indexHygien"; ObjectID = "U8p-Rc-ILR"; */
+"U8p-Rc-ILR.normalTitle" = "indexHygien";
+
+/* Class = "UICommand"; title = "Item 2"; ObjectID = "VBc-Ou-FV5"; */
+"VBc-Ou-FV5.title" = "Item 2";
+
+/* Class = "UIButton"; configuration.title = "tartarTooth46"; ObjectID = "Vin-XF-e0F"; */
+"Vin-XF-e0F.configuration.title" = "tartarTooth46";
+
+/* Class = "UIButton"; normalTitle = "indexHygien"; ObjectID = "Vin-XF-e0F"; */
+"Vin-XF-e0F.normalTitle" = "indexHygien";
+
+/* Class = "UILabel"; text = "Greene, Wermillion (1964)"; ObjectID = "Vjh-0f-iQr"; */
+"Vjh-0f-iQr.text" = "Greene, Wermillion (1964)";
+
+/* Class = "UILabel"; text = "Распространненость кариеса зубов"; ObjectID = "WLm-yg-gca"; */
+"WLm-yg-gca.text" = "Распространненость кариеса зубов";
+
+/* Class = "UIButton"; configuration.title = "Посчитать индекс зубного камня"; ObjectID = "Wc5-9d-Klh"; */
+"Wc5-9d-Klh.configuration.title" = "Посчитать индекс зубного камня";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Wc5-9d-Klh"; */
+"Wc5-9d-Klh.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Оценка зубного налета"; ObjectID = "Wlg-fZ-eGR"; */
+"Wlg-fZ-eGR.text" = "Оценка зубного налета";
+
+/* Class = "UICommand"; title = "Item 2"; ObjectID = "XWb-kP-Gvw"; */
+"XWb-kP-Gvw.title" = "Item 2";
+
+/* Class = "UICommand"; title = "Item 1"; ObjectID = "XWs-b1-nOT"; */
+"XWs-b1-nOT.title" = "Item 1";
+
+/* Class = "UICommand"; title = "Item 1"; ObjectID = "YBL-95-RFt"; */
+"YBL-95-RFt.title" = "Item 1";
+
+/* Class = "UILabel"; text = "26 зуб"; ObjectID = "Yjw-Bd-spj"; */
+"Yjw-Bd-spj.text" = "26 зуб";
+
+/* Class = "UIButton"; configuration.title = "Индекс гингивита PMA"; ObjectID = "a3L-g0-KGg"; */
+"a3L-g0-KGg.configuration.title" = "Индекс гингивита PMA";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "a3L-g0-KGg"; */
+"a3L-g0-KGg.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Степень активности по Виноградовой Т.Ф."; ObjectID = "aEh-3P-DoD"; */
+"aEh-3P-DoD.configuration.title" = "Степень активности по Виноградовой Т.Ф.";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "aEh-3P-DoD"; */
+"aEh-3P-DoD.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Назад"; ObjectID = "aHR-j5-h6w"; */
+"aHR-j5-h6w.configuration.title" = "Назад";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "aHR-j5-h6w"; */
+"aHR-j5-h6w.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Окрашенность зуба"; ObjectID = "aLJ-Pq-dNU"; */
+"aLJ-Pq-dNU.text" = "Окрашенность зуба";
+
+/* Class = "UILabel"; text = "16 зуб"; ObjectID = "aan-ZE-ZhT"; */
+"aan-ZE-ZhT.text" = "16 зуб";
+
+/* Class = "UICommand"; title = "Item 1"; ObjectID = "bH2-Qo-3WV"; */
+"bH2-Qo-3WV.title" = "Item 1";
+
+/* Class = "UIButton"; configuration.title = "Назад"; ObjectID = "bPH-fb-8Ny"; */
+"bPH-fb-8Ny.configuration.title" = "Назад";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "bPH-fb-8Ny"; */
+"bPH-fb-8Ny.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Пародонтальный индекс PI"; ObjectID = "bkm-d3-LiT"; */
+"bkm-d3-LiT.configuration.title" = "Пародонтальный индекс PI";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "bkm-d3-LiT"; */
+"bkm-d3-LiT.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "41 зуб"; ObjectID = "c92-XU-My7"; */
+"c92-XU-My7.text" = "41 зуб";
+
+/* Class = "UICommand"; title = "Item 2"; ObjectID = "cTQ-a2-5Pb"; */
+"cTQ-a2-5Pb.title" = "Item 2";
+
+/* Class = "UICommand"; title = "Item 1"; ObjectID = "cbU-dl-S6Z"; */
+"cbU-dl-S6Z.title" = "Item 1";
+
+/* Class = "UILabel"; text = "№46"; ObjectID = "ctw-Pi-DWy"; */
+"ctw-Pi-DWy.text" = "№46";
+
+/* Class = "UICommand"; title = "Item 1"; ObjectID = "d9E-Tz-CCK"; */
+"d9E-Tz-CCK.title" = "Item 1";
+
+/* Class = "UILabel"; text = "31 зуб"; ObjectID = "dRi-Rk-aq2"; */
+"dRi-Rk-aq2.text" = "31 зуб";
+
+/* Class = "UICommand"; title = "Item 1"; ObjectID = "dRs-GY-X89"; */
+"dRs-GY-X89.title" = "Item 1";
+
+/* Class = "UILabel"; text = "Оральная поверхность"; ObjectID = "diU-HU-dD7"; */
+"diU-HU-dD7.text" = "Оральная поверхность";
+
+/* Class = "UICommand"; title = "Item 2"; ObjectID = "drF-ln-ATS"; */
+"drF-ln-ATS.title" = "Item 2";
+
+/* Class = "UICommand"; title = "Item 2"; ObjectID = "eOu-sJ-uwN"; */
+"eOu-sJ-uwN.title" = "Item 2";
+
+/* Class = "UILabel"; text = "Вестибулярная поверхность"; ObjectID = "exy-om-dXd"; */
+"exy-om-dXd.text" = "Вестибулярная поверхность";
+
+/* Class = "UIButton"; configuration.title = "dentalPlaque31"; ObjectID = "frf-rt-iAP"; */
+"frf-rt-iAP.configuration.title" = "dentalPlaque31";
+
+/* Class = "UIButton"; normalTitle = "indexHygien"; ObjectID = "frf-rt-iAP"; */
+"frf-rt-iAP.normalTitle" = "indexHygien";
+
+/* Class = "UICommand"; title = "Item 1"; ObjectID = "g4y-9j-DUQ"; */
+"g4y-9j-DUQ.title" = "Item 1";
+
+/* Class = "UILabel"; text = "№26"; ObjectID = "gOR-WZ-Doz"; */
+"gOR-WZ-Doz.text" = "№26";
+
+/* Class = "UICommand"; title = "Item 2"; ObjectID = "gb5-YV-467"; */
+"gb5-YV-467.title" = "Item 2";
+
+/* Class = "UIButton"; configuration.title = "Посчитать индекс гингивита РМА"; ObjectID = "h4Q-ZK-E0N"; */
+"h4Q-ZK-E0N.configuration.title" = "Посчитать индекс гингивита РМА";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "h4Q-ZK-E0N"; */
+"h4Q-ZK-E0N.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Result"; ObjectID = "hc6-N2-EQu"; */
+"hc6-N2-EQu.text" = "Result";
+
+/* Class = "UIButton"; configuration.title = "Ортодонтические индексы"; ObjectID = "hzW-et-4bG"; */
+"hzW-et-4bG.configuration.title" = "Ортодонтические индексы";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "hzW-et-4bG"; */
+"hzW-et-4bG.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "indexHygien31"; ObjectID = "jXq-Q6-Zoi"; */
+"jXq-Q6-Zoi.configuration.title" = "indexHygien31";
+
+/* Class = "UIButton"; normalTitle = "indexHygien"; ObjectID = "jXq-Q6-Zoi"; */
+"jXq-Q6-Zoi.normalTitle" = "indexHygien";
+
+/* Class = "UIButton"; configuration.title = "Упрощенный индекс гигиены"; ObjectID = "kJc-D6-0xQ"; */
+"kJc-D6-0xQ.configuration.title" = "Упрощенный индекс гигиены";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "kJc-D6-0xQ"; */
+"kJc-D6-0xQ.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Назад"; ObjectID = "kPm-XD-2y7"; */
+"kPm-XD-2y7.configuration.title" = "Назад";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "kPm-XD-2y7"; */
+"kPm-XD-2y7.normalTitle" = "Button";
+
+/* Class = "UICommand"; title = "Item 2"; ObjectID = "khe-mz-K9m"; */
+"khe-mz-K9m.title" = "Item 2";
+
+/* Class = "UICommand"; title = "Item 1"; ObjectID = "lAs-k8-FLW"; */
+"lAs-k8-FLW.title" = "Item 1";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "lPB-oK-UWl"; */
+"lPB-oK-UWl.text" = "Label";
+
+/* Class = "UICommand"; title = "Item 2"; ObjectID = "lwm-UW-TXb"; */
+"lwm-UW-TXb.title" = "Item 2";
+
+/* Class = "UIButton"; configuration.title = "Прирост кариеса зубов"; ObjectID = "mJb-qk-17f"; */
+"mJb-qk-17f.configuration.title" = "Прирост кариеса зубов";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "mJb-qk-17f"; */
+"mJb-qk-17f.normalTitle" = "Button";
+
+/* Class = "UICommand"; title = "Item 1"; ObjectID = "mLo-f0-H2r"; */
+"mLo-f0-H2r.title" = "Item 1";
+
+/* Class = "UILabel"; text = "Оценка зубного камня"; ObjectID = "mYS-cp-s5e"; */
+"mYS-cp-s5e.text" = "Оценка зубного камня";
+
+/* Class = "UILabel"; text = "Индекс гингивита РМА"; ObjectID = "nHA-e6-UAe"; */
+"nHA-e6-UAe.text" = "Индекс гингивита РМА";
+
+/* Class = "UIButton"; configuration.title = "gingivalIndex31"; ObjectID = "nn6-7v-Ubw"; */
+"nn6-7v-Ubw.configuration.title" = "gingivalIndex31";
+
+/* Class = "UIButton"; normalTitle = "indexHygien"; ObjectID = "nn6-7v-Ubw"; */
+"nn6-7v-Ubw.normalTitle" = "indexHygien";
+
+/* Class = "UITextField"; placeholder = "0-32"; ObjectID = "oCr-mB-492"; */
+"oCr-mB-492.placeholder" = "0-32";
+
+/* Class = "UILabel"; text = "Вестибулярная поверхность"; ObjectID = "p0b-33-zrg"; */
+"p0b-33-zrg.text" = "Вестибулярная поверхность";
+
+/* Class = "UILabel"; text = "33 зуб"; ObjectID = "pOg-C3-KHv"; */
+"pOg-C3-KHv.text" = "33 зуб";
+
+/* Class = "UILabel"; text = "Федорова - Володкиной"; ObjectID = "pY4-pg-A2A"; */
+"pY4-pg-A2A.text" = "Федорова - Володкиной";
+
+/* Class = "UIButton"; configuration.title = "Назад"; ObjectID = "pg0-AD-sqk"; */
+"pg0-AD-sqk.configuration.title" = "Назад";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "pg0-AD-sqk"; */
+"pg0-AD-sqk.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Оценка кариеса"; ObjectID = "qGy-u4-wea"; */
+"qGy-u4-wea.text" = "Оценка кариеса";
+
+/* Class = "UILabel"; text = "Количество зубов"; ObjectID = "qIL-iN-NCl"; */
+"qIL-iN-NCl.text" = "Количество зубов";
+
+/* Class = "UICommand"; title = "Item 2"; ObjectID = "qt1-7I-kFk"; */
+"qt1-7I-kFk.title" = "Item 2";
+
+/* Class = "UIButton"; configuration.title = "Посчитать индекс гигиены"; ObjectID = "r8e-d9-e0c"; */
+"r8e-d9-e0c.configuration.title" = "Посчитать индекс гигиены";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "r8e-d9-e0c"; */
+"r8e-d9-e0c.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Посчитать индекс"; ObjectID = "rFa-U6-ynh"; */
+"rFa-U6-ynh.configuration.title" = "Посчитать индекс";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "rFa-U6-ynh"; */
+"rFa-U6-ynh.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Количество лиц, имеющих кариозные зубы\n или потерявших их вследствие кариеса"; ObjectID = "rGo-V4-kDY"; */
+"rGo-V4-kDY.text" = "Количество лиц, имеющих кариозные зубы\n или потерявших их вследствие кариеса";
+
+/* Class = "UICommand"; title = "Item 1"; ObjectID = "rad-Jh-kar"; */
+"rad-Jh-kar.title" = "Item 1";
+
+/* Class = "UILabel"; text = "Стоматологические индексы"; ObjectID = "ro6-CN-7W4"; */
+"ro6-CN-7W4.text" = "Dental indices";
+
+/* Class = "UIButton"; configuration.title = "Назад"; ObjectID = "sEV-qF-sTw"; */
+"sEV-qF-sTw.configuration.title" = "Back";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "sEV-qF-sTw"; */
+"sEV-qF-sTw.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "dentalPlaque26"; ObjectID = "sK6-Ep-Oqs"; */
+"sK6-Ep-Oqs.configuration.title" = "dentalPlaque26";
+
+/* Class = "UIButton"; normalTitle = "indexHygien"; ObjectID = "sK6-Ep-Oqs"; */
+"sK6-Ep-Oqs.normalTitle" = "indexHygien";
+
+/* Class = "UIButton"; configuration.title = "Назад"; ObjectID = "sxm-n7-1yH"; */
+"sxm-n7-1yH.configuration.title" = "Back";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "sxm-n7-1yH"; */
+"sxm-n7-1yH.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "dentalPlaque11"; ObjectID = "tOM-4Z-zTI"; */
+"tOM-4Z-zTI.configuration.title" = "dentalPlaque11";
+
+/* Class = "UIButton"; normalTitle = "indexHygien"; ObjectID = "tOM-4Z-zTI"; */
+"tOM-4Z-zTI.normalTitle" = "indexHygien";
+
+/* Class = "UILabel"; text = "Упрощенный индекс гигиены"; ObjectID = "tg1-3P-X7n"; */
+"tg1-3P-X7n.text" = "Упрощенный индекс гигиены";
+
+/* Class = "UILabel"; text = "№16"; ObjectID = "tnc-ke-aX3"; */
+"tnc-ke-aX3.text" = "№16";
+
+/* Class = "UICommand"; title = "Item 1"; ObjectID = "tq1-z9-VyD"; */
+"tq1-z9-VyD.title" = "Item 1";
+
+/* Class = "UIButton"; configuration.title = "toothTartar11"; ObjectID = "uHe-ap-8CM"; */
+"uHe-ap-8CM.configuration.title" = "toothTartar11";
+
+/* Class = "UIButton"; normalTitle = "indexHygien"; ObjectID = "uHe-ap-8CM"; */
+"uHe-ap-8CM.normalTitle" = "indexHygien";
+
+/* Class = "UICommand"; title = "Item 1"; ObjectID = "uPI-o5-yu5"; */
+"uPI-o5-yu5.title" = "Item 1";
+
+/* Class = "UIButton"; configuration.title = "Назад"; ObjectID = "vLC-ul-t5D"; */
+"vLC-ul-t5D.configuration.title" = "Назад";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "vLC-ul-t5D"; */
+"vLC-ul-t5D.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "gingivalIndex16"; ObjectID = "vOT-Q7-tiA"; */
+"vOT-Q7-tiA.configuration.title" = "gingivalIndex16";
+
+/* Class = "UIButton"; normalTitle = "indexHygien"; ObjectID = "vOT-Q7-tiA"; */
+"vOT-Q7-tiA.normalTitle" = "indexHygien";
+
+/* Class = "UILabel"; text = "Налет"; ObjectID = "vps-9z-Lar"; */
+"vps-9z-Lar.text" = "Налет";
+
+/* Class = "UICommand"; title = "Item 1"; ObjectID = "wa4-Uw-omo"; */
+"wa4-Uw-omo.title" = "Item 1";
+
+/* Class = "UIButton"; configuration.title = "indexHygien31"; ObjectID = "x93-YY-Ao4"; */
+"x93-YY-Ao4.configuration.title" = "indexHygien31";
+
+/* Class = "UIButton"; normalTitle = "indexHygien"; ObjectID = "x93-YY-Ao4"; */
+"x93-YY-Ao4.normalTitle" = "indexHygien";
+
+/* Class = "UIButton"; configuration.title = "Назад"; ObjectID = "xdc-d4-HzJ"; */
+"xdc-d4-HzJ.configuration.title" = "Назад";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "xdc-d4-HzJ"; */
+"xdc-d4-HzJ.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "dentalPlaque36"; ObjectID = "xn1-wy-XGy"; */
+"xn1-wy-XGy.configuration.title" = "dentalPlaque36";
+
+/* Class = "UIButton"; normalTitle = "indexHygien"; ObjectID = "xn1-wy-XGy"; */
+"xn1-wy-XGy.normalTitle" = "indexHygien";
+
+/* Class = "UILabel"; text = "Воспаление маргинальной и альвеолярной десны"; ObjectID = "xxp-KN-mgF"; */
+"xxp-KN-mgF.text" = "Воспаление маргинальной и альвеолярной десны";
+
+/* Class = "UICommand"; title = "Item 2"; ObjectID = "y4w-pV-8D0"; */
+"y4w-pV-8D0.title" = "Item 2";
+
+/* Class = "UILabel"; text = "№46"; ObjectID = "yXQ-Id-vop"; */
+"yXQ-Id-vop.text" = "№46";
+
+/* Class = "UILabel"; text = "Воспаление отсутствует"; ObjectID = "yy6-5Z-vSr"; */
+"yy6-5Z-vSr.text" = "Воспаление отсутствует";
+
+/* Class = "UILabel"; text = "Результат:"; ObjectID = "z1V-HG-8Gc"; */
+"z1V-HG-8Gc.text" = "Результат:";
+
+/* Class = "UILabel"; text = "32 зуб"; ObjectID = "z4F-aF-JI9"; */
+"z4F-aF-JI9.text" = "32 зуб";
+
+/* Class = "UILabel"; text = "11 зуб"; ObjectID = "zVV-Dk-e7q"; */
+"zVV-Dk-e7q.text" = "11 зуб";
+
+/* Class = "UITextField"; placeholder = "0-32"; ObjectID = "zrh-JO-xwe"; */
+"zrh-JO-xwe.placeholder" = "0-32";

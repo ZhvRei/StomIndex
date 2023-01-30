@@ -1,0 +1,485 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		A52F5A31297FA5A900B09499 /* ParodontalIndexPIModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = A52F5A30297FA5A900B09499 /* ParodontalIndexPIModel.swift */; };
+		A5366CA5296203D40022BC0E /* GingivalPMAVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5366CA4296203D40022BC0E /* GingivalPMAVC.swift */; };
+		A55C3878295B591F006C9BC5 /* IndexToothFedorovView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A55C3877295B591F006C9BC5 /* IndexToothFedorovView.swift */; };
+		A55C387A295B59BD006C9BC5 /* SimplifiedPlaqueView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A55C3879295B59BD006C9BC5 /* SimplifiedPlaqueView.swift */; };
+		A55C387D295B5B41006C9BC5 /* SimplifiedTartarView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A55C387C295B5B41006C9BC5 /* SimplifiedTartarView.swift */; };
+		A55C387F295B5C3F006C9BC5 /* ConverterSimplifiedModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = A55C387E295B5C3F006C9BC5 /* ConverterSimplifiedModel.swift */; };
+		A56809E6295C60DF001E0D60 /* CalculationIndex.swift in Sources */ = {isa = PBXBuildFile; fileRef = A56809E5295C60DF001E0D60 /* CalculationIndex.swift */; };
+		A5B8A8B029602A450080EF1E /* GingivalIndexVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5B8A8AF29602A450080EF1E /* GingivalIndexVC.swift */; };
+		A5B8A8B229602CDB0080EF1E /* GingivalIndexView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5B8A8B129602CDB0080EF1E /* GingivalIndexView.swift */; };
+		A5B954832955A76000A4DBE2 /* ConverterIndexModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5B954822955A76000A4DBE2 /* ConverterIndexModel.swift */; };
+		A5B954852955BC2400A4DBE2 /* SimplifiedHygieneIndexVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5B954842955BC2400A4DBE2 /* SimplifiedHygieneIndexVC.swift */; };
+		A5BCC8772961FD8400C95658 /* ConverterGingivalModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5BCC8762961FD8400C95658 /* ConverterGingivalModel.swift */; };
+		A5C3C2F92971196600475B38 /* ParodontalIndexPIVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5C3C2F82971196600475B38 /* ParodontalIndexPIVC.swift */; };
+		A5C3C2FB29711B1F00475B38 /* ParadontalPIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5C3C2FA29711B1F00475B38 /* ParadontalPIView.swift */; };
+		A5F883C0296AD9AF00A2267D /* GingivalPMAModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5F883BF296AD9AF00A2267D /* GingivalPMAModel.swift */; };
+		A5F883C2296AE35300A2267D /* GingivalIndexPMAView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5F883C1296AE35300A2267D /* GingivalIndexPMAView.swift */; };
+		A5F9097329530B6D001EDDF6 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5F9097229530B6D001EDDF6 /* AppDelegate.swift */; };
+		A5F9097529530B6D001EDDF6 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5F9097429530B6D001EDDF6 /* SceneDelegate.swift */; };
+		A5F9097A29530B6D001EDDF6 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A5F9097829530B6D001EDDF6 /* Main.storyboard */; };
+		A5F9097C29530B71001EDDF6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A5F9097B29530B71001EDDF6 /* Assets.xcassets */; };
+		A5F9097F29530B71001EDDF6 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A5F9097D29530B71001EDDF6 /* LaunchScreen.storyboard */; };
+		A5F9098B29530E8F001EDDF6 /* OrthodonticsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5F9098A29530E8F001EDDF6 /* OrthodonticsViewController.swift */; };
+		A5F9098D29530EED001EDDF6 /* ParodontalViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5F9098C29530EED001EDDF6 /* ParodontalViewController.swift */; };
+		A5F9099029531728001EDDF6 /* FirstViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5F9098F29531728001EDDF6 /* FirstViewController.swift */; };
+		A5F909B229533429001EDDF6 /* CariesPrevalenceVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5F909B129533429001EDDF6 /* CariesPrevalenceVC.swift */; };
+		A5F909B429533FC9001EDDF6 /* IndexFedorovVolodcinVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5F909B329533FC9001EDDF6 /* IndexFedorovVolodcinVC.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		A52F5A30297FA5A900B09499 /* ParodontalIndexPIModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ParodontalIndexPIModel.swift; sourceTree = "<group>"; };
+		A5366CA4296203D40022BC0E /* GingivalPMAVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GingivalPMAVC.swift; sourceTree = "<group>"; };
+		A55C3877295B591F006C9BC5 /* IndexToothFedorovView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IndexToothFedorovView.swift; sourceTree = "<group>"; };
+		A55C3879295B59BD006C9BC5 /* SimplifiedPlaqueView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SimplifiedPlaqueView.swift; sourceTree = "<group>"; };
+		A55C387C295B5B41006C9BC5 /* SimplifiedTartarView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SimplifiedTartarView.swift; sourceTree = "<group>"; };
+		A55C387E295B5C3F006C9BC5 /* ConverterSimplifiedModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConverterSimplifiedModel.swift; sourceTree = "<group>"; };
+		A56809E5295C60DF001E0D60 /* CalculationIndex.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalculationIndex.swift; sourceTree = "<group>"; };
+		A5B8A8AF29602A450080EF1E /* GingivalIndexVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GingivalIndexVC.swift; sourceTree = "<group>"; };
+		A5B8A8B129602CDB0080EF1E /* GingivalIndexView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GingivalIndexView.swift; sourceTree = "<group>"; };
+		A5B954822955A76000A4DBE2 /* ConverterIndexModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConverterIndexModel.swift; sourceTree = "<group>"; };
+		A5B954842955BC2400A4DBE2 /* SimplifiedHygieneIndexVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SimplifiedHygieneIndexVC.swift; sourceTree = "<group>"; };
+		A5BCC8762961FD8400C95658 /* ConverterGingivalModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConverterGingivalModel.swift; sourceTree = "<group>"; };
+		A5C3C2F82971196600475B38 /* ParodontalIndexPIVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ParodontalIndexPIVC.swift; sourceTree = "<group>"; };
+		A5C3C2FA29711B1F00475B38 /* ParadontalPIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ParadontalPIView.swift; sourceTree = "<group>"; };
+		A5C3C2FC2974FF9F00475B38 /* ru */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ru; path = ru.lproj/Main.strings; sourceTree = "<group>"; };
+		A5C3C2FD2974FF9F00475B38 /* ru */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ru; path = ru.lproj/LaunchScreen.strings; sourceTree = "<group>"; };
+		A5C3C2FE2975003A00475B38 /* en-GB */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "en-GB"; path = "en-GB.lproj/Main.strings"; sourceTree = "<group>"; };
+		A5C3C2FF2975003A00475B38 /* en-GB */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "en-GB"; path = "en-GB.lproj/LaunchScreen.strings"; sourceTree = "<group>"; };
+		A5F883BF296AD9AF00A2267D /* GingivalPMAModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GingivalPMAModel.swift; sourceTree = "<group>"; };
+		A5F883C1296AE35300A2267D /* GingivalIndexPMAView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GingivalIndexPMAView.swift; sourceTree = "<group>"; };
+		A5F9096F29530B6D001EDDF6 /* StomIndex.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = StomIndex.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		A5F9097229530B6D001EDDF6 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		A5F9097429530B6D001EDDF6 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
+		A5F9097929530B6D001EDDF6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		A5F9097B29530B71001EDDF6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		A5F9097E29530B71001EDDF6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		A5F9098029530B71001EDDF6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A5F9098A29530E8F001EDDF6 /* OrthodonticsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OrthodonticsViewController.swift; sourceTree = "<group>"; };
+		A5F9098C29530EED001EDDF6 /* ParodontalViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ParodontalViewController.swift; sourceTree = "<group>"; };
+		A5F9098F29531728001EDDF6 /* FirstViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstViewController.swift; sourceTree = "<group>"; };
+		A5F909B129533429001EDDF6 /* CariesPrevalenceVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CariesPrevalenceVC.swift; sourceTree = "<group>"; };
+		A5F909B329533FC9001EDDF6 /* IndexFedorovVolodcinVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IndexFedorovVolodcinVC.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		A5F9096C29530B6D001EDDF6 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		A55C3876295B5730006C9BC5 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				A55C3877295B591F006C9BC5 /* IndexToothFedorovView.swift */,
+				A55C3879295B59BD006C9BC5 /* SimplifiedPlaqueView.swift */,
+				A55C387C295B5B41006C9BC5 /* SimplifiedTartarView.swift */,
+				A5B8A8B129602CDB0080EF1E /* GingivalIndexView.swift */,
+				A5F883C1296AE35300A2267D /* GingivalIndexPMAView.swift */,
+				A5C3C2FA29711B1F00475B38 /* ParadontalPIView.swift */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		A5B9547F2955A56000A4DBE2 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				A55C387E295B5C3F006C9BC5 /* ConverterSimplifiedModel.swift */,
+				A56809E5295C60DF001E0D60 /* CalculationIndex.swift */,
+				A5BCC8762961FD8400C95658 /* ConverterGingivalModel.swift */,
+				A5F883BF296AD9AF00A2267D /* GingivalPMAModel.swift */,
+				A5B954822955A76000A4DBE2 /* ConverterIndexModel.swift */,
+				A52F5A30297FA5A900B09499 /* ParodontalIndexPIModel.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		A5F9096629530B6D001EDDF6 = {
+			isa = PBXGroup;
+			children = (
+				A5F9097129530B6D001EDDF6 /* StomIndex */,
+				A5F9097029530B6D001EDDF6 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		A5F9097029530B6D001EDDF6 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				A5F9096F29530B6D001EDDF6 /* StomIndex.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		A5F9097129530B6D001EDDF6 /* StomIndex */ = {
+			isa = PBXGroup;
+			children = (
+				A55C3876295B5730006C9BC5 /* View */,
+				A5B9547F2955A56000A4DBE2 /* Model */,
+				A5F9098E29530EF9001EDDF6 /* ViewController */,
+				A5F9097229530B6D001EDDF6 /* AppDelegate.swift */,
+				A5F9097429530B6D001EDDF6 /* SceneDelegate.swift */,
+				A5F9097829530B6D001EDDF6 /* Main.storyboard */,
+				A5F9097B29530B71001EDDF6 /* Assets.xcassets */,
+				A5F9097D29530B71001EDDF6 /* LaunchScreen.storyboard */,
+				A5F9098029530B71001EDDF6 /* Info.plist */,
+				A5F9098A29530E8F001EDDF6 /* OrthodonticsViewController.swift */,
+				A5F9098C29530EED001EDDF6 /* ParodontalViewController.swift */,
+				A5F9098F29531728001EDDF6 /* FirstViewController.swift */,
+				A5F909B129533429001EDDF6 /* CariesPrevalenceVC.swift */,
+				A5F909B329533FC9001EDDF6 /* IndexFedorovVolodcinVC.swift */,
+				A5B954842955BC2400A4DBE2 /* SimplifiedHygieneIndexVC.swift */,
+				A5B8A8AF29602A450080EF1E /* GingivalIndexVC.swift */,
+				A5366CA4296203D40022BC0E /* GingivalPMAVC.swift */,
+				A5C3C2F82971196600475B38 /* ParodontalIndexPIVC.swift */,
+			);
+			path = StomIndex;
+			sourceTree = "<group>";
+		};
+		A5F9098E29530EF9001EDDF6 /* ViewController */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = ViewController;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		A5F9096E29530B6D001EDDF6 /* StomIndex */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = A5F9098329530B71001EDDF6 /* Build configuration list for PBXNativeTarget "StomIndex" */;
+			buildPhases = (
+				A5F9096B29530B6D001EDDF6 /* Sources */,
+				A5F9096C29530B6D001EDDF6 /* Frameworks */,
+				A5F9096D29530B6D001EDDF6 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = StomIndex;
+			productName = PHPindex;
+			productReference = A5F9096F29530B6D001EDDF6 /* StomIndex.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		A5F9096729530B6D001EDDF6 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1420;
+				LastUpgradeCheck = 1420;
+				TargetAttributes = {
+					A5F9096E29530B6D001EDDF6 = {
+						CreatedOnToolsVersion = 14.2;
+					};
+				};
+			};
+			buildConfigurationList = A5F9096A29530B6D001EDDF6 /* Build configuration list for PBXProject "StomIndex" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+				ru,
+				"en-GB",
+			);
+			mainGroup = A5F9096629530B6D001EDDF6;
+			productRefGroup = A5F9097029530B6D001EDDF6 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				A5F9096E29530B6D001EDDF6 /* StomIndex */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		A5F9096D29530B6D001EDDF6 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A5F9097F29530B71001EDDF6 /* LaunchScreen.storyboard in Resources */,
+				A5F9097C29530B71001EDDF6 /* Assets.xcassets in Resources */,
+				A5F9097A29530B6D001EDDF6 /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		A5F9096B29530B6D001EDDF6 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A56809E6295C60DF001E0D60 /* CalculationIndex.swift in Sources */,
+				A55C387A295B59BD006C9BC5 /* SimplifiedPlaqueView.swift in Sources */,
+				A5B8A8B029602A450080EF1E /* GingivalIndexVC.swift in Sources */,
+				A5F9098B29530E8F001EDDF6 /* OrthodonticsViewController.swift in Sources */,
+				A5B8A8B229602CDB0080EF1E /* GingivalIndexView.swift in Sources */,
+				A5B954852955BC2400A4DBE2 /* SimplifiedHygieneIndexVC.swift in Sources */,
+				A5F9097329530B6D001EDDF6 /* AppDelegate.swift in Sources */,
+				A5B954832955A76000A4DBE2 /* ConverterIndexModel.swift in Sources */,
+				A5C3C2FB29711B1F00475B38 /* ParadontalPIView.swift in Sources */,
+				A5F883C2296AE35300A2267D /* GingivalIndexPMAView.swift in Sources */,
+				A5F909B429533FC9001EDDF6 /* IndexFedorovVolodcinVC.swift in Sources */,
+				A5F9099029531728001EDDF6 /* FirstViewController.swift in Sources */,
+				A52F5A31297FA5A900B09499 /* ParodontalIndexPIModel.swift in Sources */,
+				A5BCC8772961FD8400C95658 /* ConverterGingivalModel.swift in Sources */,
+				A55C387F295B5C3F006C9BC5 /* ConverterSimplifiedModel.swift in Sources */,
+				A5F883C0296AD9AF00A2267D /* GingivalPMAModel.swift in Sources */,
+				A55C387D295B5B41006C9BC5 /* SimplifiedTartarView.swift in Sources */,
+				A5C3C2F92971196600475B38 /* ParodontalIndexPIVC.swift in Sources */,
+				A5366CA5296203D40022BC0E /* GingivalPMAVC.swift in Sources */,
+				A55C3878295B591F006C9BC5 /* IndexToothFedorovView.swift in Sources */,
+				A5F9098D29530EED001EDDF6 /* ParodontalViewController.swift in Sources */,
+				A5F9097529530B6D001EDDF6 /* SceneDelegate.swift in Sources */,
+				A5F909B229533429001EDDF6 /* CariesPrevalenceVC.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		A5F9097829530B6D001EDDF6 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				A5F9097929530B6D001EDDF6 /* Base */,
+				A5C3C2FC2974FF9F00475B38 /* ru */,
+				A5C3C2FE2975003A00475B38 /* en-GB */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		A5F9097D29530B71001EDDF6 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				A5F9097E29530B71001EDDF6 /* Base */,
+				A5C3C2FD2974FF9F00475B38 /* ru */,
+				A5C3C2FF2975003A00475B38 /* en-GB */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		A5F9098129530B71001EDDF6 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		A5F9098229530B71001EDDF6 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		A5F9098429530B71001EDDF6 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = APR55D5HLJ;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = StomIndex/Info.plist;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = Rei.StomIndex;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = YES;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		A5F9098529530B71001EDDF6 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = APR55D5HLJ;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = StomIndex/Info.plist;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = Rei.StomIndex;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = YES;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		A5F9096A29530B6D001EDDF6 /* Build configuration list for PBXProject "StomIndex" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				A5F9098129530B71001EDDF6 /* Debug */,
+				A5F9098229530B71001EDDF6 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		A5F9098329530B71001EDDF6 /* Build configuration list for PBXNativeTarget "StomIndex" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				A5F9098429530B71001EDDF6 /* Debug */,
+				A5F9098529530B71001EDDF6 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = A5F9096729530B6D001EDDF6 /* Project object */;
+}
